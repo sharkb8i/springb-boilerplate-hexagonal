@@ -18,3 +18,7 @@ It is also possible to run a packaged application with remote debugging support 
 ### Using the Maven plugin
 
 `mvn spring-boot:run`
+
+## How to Installing Dependencies
+
+`mvn install` (or `mvn package`)
